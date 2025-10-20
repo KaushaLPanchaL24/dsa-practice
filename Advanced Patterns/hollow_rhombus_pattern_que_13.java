@@ -20,7 +20,7 @@ public class hollow_rhombus_pattern_que_13 {
         Scanner sc = new Scanner(System.in);
 
         // ask user for input
-        System.out.print("Enter the number of rows for the hollow rhombus: ");
+        System.out.print("Enter the number of rows for the hollow rhombus : ");
         int n = sc.nextInt();
 
         // outer loop for number of lines
