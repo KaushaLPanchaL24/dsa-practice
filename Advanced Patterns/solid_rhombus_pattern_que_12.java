@@ -21,7 +21,7 @@ public class solid_rhombus_pattern_que_12 {
         Scanner sc = new Scanner(System.in);
 
         // ask the user for input
-        System.out.println("Enter the number of rows for the rhombus: ");
+        System.out.println("Enter the number of rows for the rhombus : ");
         int n = sc.nextInt();
 
         // outer loop for number of lines
